@@ -1,10 +1,10 @@
 curry:
   title: Curry
   food_preference_id: 1
-  food_type: 1
+  food_type_id: 1
   cuisine_id: 1
   servings: 1
-  cokking_time: 1
-  level_of_difficulty: Easy
+  cooking_time: 1
+  difficulty_level: Easy
   ingredients: Onions Tomotoes Salt Oil
   procedure: Heat Oil Chop Onions, tomatoes and add Salt to it.

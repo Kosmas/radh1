@@ -21,9 +21,9 @@ class RecipesControllerTest < ActionController::TestCase
       post :create, recipe: { cooking_time: @recipe.cooking_time,
                               cuisine_id: @recipe.cuisine_id,
                               food_preference_id: @recipe.food_preference_id,
-                              food_type: @recipe.food_type,
+                              food_type_id: @recipe.food_type_id,
                               ingredients: @recipe.ingredients,
-                              level_of_difficulty: @recipe.level_of_difficulty,
+                              difficulty_level: @recipe.difficulty_level,
                               procedure: @recipe.procedure,
                               servings: @recipe.servings,
                               title: @recipe.title }
@@ -46,9 +46,9 @@ class RecipesControllerTest < ActionController::TestCase
     patch :update, id: @recipe, recipe: { cooking_time: @recipe.cooking_time,
                                           cuisine_id: @recipe.cuisine_id,
                                           food_preference_id: @recipe.food_preference_id,
-                                          food_type: @recipe.food_type,
+                                          food_type_id: @recipe.food_type_id,
                                           ingredients: @recipe.ingredients,
-                                          level_of_difficulty: @recipe.level_of_difficulty,
+                                          difficulty_level: @recipe.difficulty_level,
                                           procedure: @recipe.procedure,
                                           servings: @recipe.servings,
                                           title: @recipe.title }
