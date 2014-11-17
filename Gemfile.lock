@@ -68,7 +68,7 @@ GEM
     mime-types (2.4.3)
     minitest (5.4.2)
     multi_json (1.10.1)
-    mysql2 (0.3.16)
+    mysql2 (0.3.17)
     orm_adapter (0.5.0)
     rack (1.5.2)
     rack-test (0.6.2)
@@ -134,7 +134,7 @@ DEPENDENCIES
   devise!
   jbuilder (~> 2.2.5)
   jquery-rails (~> 3.1.2)
-  mysql2 (~> 0.3.16)
+  mysql2 (~> 0.3.17)
   rails (= 4.1.7)
   sass-rails (~> 4.0.4)
   sdoc (~> 0.4.1)
