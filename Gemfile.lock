@@ -166,4 +166,4 @@ DEPENDENCIES
   sdoc (~> 0.4.1)
   spring (~> 1.2.0)
   turbolinks (~> 2.5.3)
-  uglifier (~> 2.6.0)
+  uglifier (~> 2.6.1)
