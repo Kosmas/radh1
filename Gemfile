@@ -8,7 +8,7 @@ gem 'mysql2', '~> 0.3.19'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0.3'
 # Use Uglifier as compressor for JavaScript assets
-gem 'uglifier', '~> 2.7.1'
+gem 'uglifier', '~> 2.7.2'
 # Use CoffeeScript for .js.coffee assets and views
 gem 'coffee-rails', '~> 4.1.0'
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
