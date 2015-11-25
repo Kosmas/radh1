@@ -41,3 +41,6 @@ gem 'spring', '~> 1.4.4',       group: :development
 gem 'devise', github: 'plataformatec/devise'
 
 gem 'anjlab-bootstrap-rails', require: 'bootstrap-rails'
+
+# Security update for nokogiri
+gem 'nokogiri', '~> 1.6.6.4'
