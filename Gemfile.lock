@@ -79,13 +79,15 @@ GEM
     mail (2.6.3)
       mime-types (>= 1.16, < 3)
     mime-types (2.99.1)
-    mini_portile2 (2.0.0)
+    mini_portile2 (2.1.0)
     minitest (5.9.0)
     multi_json (1.12.1)
     mysql2 (0.4.4)
-    nokogiri (1.6.7.2)
-      mini_portile2 (~> 2.0.0.rc2)
+    nokogiri (1.6.8)
+      mini_portile2 (~> 2.1.0)
+      pkg-config (~> 1.1.7)
     orm_adapter (0.5.0)
+    pkg-config (1.1.7)
     rack (1.6.4)
     rack-test (0.6.3)
       rack (>= 1.0)
@@ -158,7 +160,7 @@ DEPENDENCIES
   jbuilder (~> 2.5.0)
   jquery-rails (~> 4.1.1)
   mysql2 (~> 0.4.4)
-  nokogiri (~> 1.6.7.2)
+  nokogiri (~> 1.6.8)
   rails (= 4.2.6)
   sass-rails (~> 5.0.4)
   sdoc (~> 0.4.1)
@@ -167,4 +169,4 @@ DEPENDENCIES
   uglifier (~> 3.0.0)
 
 BUNDLED WITH
-   1.11.2
+   1.12.5
