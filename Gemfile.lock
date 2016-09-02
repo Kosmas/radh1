@@ -146,7 +146,7 @@ GEM
     thor (0.19.1)
     thread_safe (0.3.5)
     tilt (2.0.5)
-    turbolinks (5.0.0)
+    turbolinks (5.0.1)
       turbolinks-source (~> 5)
     turbolinks-source (5.0.0)
     tzinfo (1.2.2)
@@ -174,7 +174,7 @@ DEPENDENCIES
   sass-rails (~> 5.0.6)
   sdoc (~> 0.4.1)
   spring (~> 1.7.2)
-  turbolinks (~> 5.0.0)
+  turbolinks (~> 5.0.1)
   uglifier (~> 3.0.0)
 
 BUNDLED WITH
