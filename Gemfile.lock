@@ -87,7 +87,7 @@ GEM
     mini_portile2 (2.1.0)
     minitest (5.9.0)
     multi_json (1.12.1)
-    mysql2 (0.4.4)
+    mysql2 (0.4.5)
     nio4r (1.2.1)
     nokogiri (1.6.8.1)
       mini_portile2 (~> 2.1.0)
@@ -167,7 +167,7 @@ DEPENDENCIES
   devise!
   jbuilder (~> 2.6.0)
   jquery-rails (~> 4.2.1)
-  mysql2 (~> 0.4.4)
+  mysql2 (~> 0.4.5)
   nokogiri (~> 1.6.8.1)
   rails (= 5.0.0.1)
   sass-rails (~> 5.0.6)
