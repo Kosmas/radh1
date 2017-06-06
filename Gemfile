@@ -43,4 +43,4 @@ gem 'devise', '~> 4.3.0'
 gem 'anjlab-bootstrap-rails', require: 'bootstrap-rails'
 
 # Security update for nokogiri
-gem 'nokogiri', '~> 1.7.2'
+gem 'nokogiri', '~> 1.8.0'
