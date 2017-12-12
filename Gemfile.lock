@@ -156,7 +156,7 @@ GEM
     turbolinks-source (5.0.2)
     tzinfo (1.2.4)
       thread_safe (~> 0.1)
-    uglifier (3.2.0)
+    uglifier (4.0.2)
       execjs (>= 0.3.0, < 3)
     warden (1.2.7)
       rack (>= 1.0)
@@ -180,7 +180,7 @@ DEPENDENCIES
   sdoc (~> 0.4.2)
   spring (~> 2.0.2)
   turbolinks (~> 5.0.1)
-  uglifier (~> 3.2.0)
+  uglifier (~> 4.0.2)
 
 BUNDLED WITH
-   1.15.4
+   1.16.0
