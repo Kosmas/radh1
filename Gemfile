@@ -38,7 +38,7 @@ gem 'spring', '~> 2.0.2',    group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
-gem 'devise', '~> 4.4.3'
+gem 'devise', '~> 4.7.1'
 
 gem 'anjlab-bootstrap-rails', require: 'bootstrap-rails'
 
